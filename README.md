@@ -8,5 +8,3 @@ This repository is built step by step in the tutorial
 It now includes steps for Github
 
 This is another change
-
-Add a new line to push it in on github
